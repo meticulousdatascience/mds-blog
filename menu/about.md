@@ -13,4 +13,5 @@ Comments or questions: [email](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#1
 
 All the images in this blog are from [Pixabay](https://pixabay.com/), where you can find royalty (i.e. free) photos.
 
-I am using the [Lagrange Jekyll theme](https://lenpaul.github.io/Lagrange/) created by Paul Le. 
+I am using the [Lagrange Jekyll theme](https://lenpaul.github.io/Lagrange/) created by Paul Le, and content for this particular blog can be found in the [meticulousdatascience Github repo](https://github.com/meticulousdatascience).
+
