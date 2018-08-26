@@ -38,7 +38,7 @@ After calculating the values of $\hat{y}$, they are just connected by line segme
 ![](https://meticulousdatascience.com/assets/img/loess_smooth2.png)
 ![](https://meticulousdatascience.com/assets/img/loess_smooth3.png)
 
-[Reproducible Code Example](https://meticulousdatascience.com/assets/reproducible_code/loess_smoothing.txt)
+[Reproducible Code Example](https://github.com/meticulousdatascience/mds-blog/blob/master/assets/code/loess_smoothing.R)
 
 References:
 
