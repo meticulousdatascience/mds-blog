@@ -1,0 +1,16 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           'Meticulous Data Science'
+description:	       'for mathematicians and other rigorous folks'
+author:              'Meti'
+

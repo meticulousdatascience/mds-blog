@@ -1,0 +1,13 @@
+# Change to true for Disqus comments
+disqus:
+  comments: false
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+post_date_prefix: 'Written on'
