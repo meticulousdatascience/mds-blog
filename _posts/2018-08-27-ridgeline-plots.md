@@ -14,6 +14,8 @@ I grabbed some data on the percentage of cocoa contained in samples of chocolate
 ![](https://meticulousdatascience.com/assets/img/chocolate_violin.png)
 ![](https://meticulousdatascience.com/assets/img/chocolate_ridgeline.png)
 
+References:
+
 - [ggridges on CRAN](https://cran.r-project.org/web/packages/ggridges/index.html)
 - [Flavors of Cacao dataset on Kaggle](https://www.kaggle.com/fangya/chocolate-bar-rating-analysis/data)
 - [R code for these plots](https://github.com/meticulousdatascience/mds-blog/blob/master/assets/code/chocolate.R)
