@@ -4,6 +4,7 @@ disqus:
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'All Posts', path: 'menu', url: "all_posts.html"}
 
 # Customize site text
 pagination:
