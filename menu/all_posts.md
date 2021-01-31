@@ -9,9 +9,7 @@ title: All Posts
 - [Ridgeline Plots](https://meticulousdatascience.com/journal/ridgeline-plots.html)
 - [Turning Plots Into Movies](https://meticulousdatascience.com/journal/turning-plots-into-movies.html)
 
-### Data Munge
-
-- [Adding Dummy Variables](https://meticulousdatascience.com/journal/dummy-vars.html)
+<!-- ### Data Munge -->
 
 <!--# Software Eng -->
 

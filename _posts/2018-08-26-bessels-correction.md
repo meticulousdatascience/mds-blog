@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bessel's Correction"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [estimators, bias, variance]
 image: bananas.jpg

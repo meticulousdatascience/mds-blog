@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ridgeline Plots"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [r, ggplot, dataviz]
 image: chocolate.jpg

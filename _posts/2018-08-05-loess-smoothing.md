@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Loess Smoothing"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [r, ggplot, dataviz, time series, smoothing]
 image: grain.jpg

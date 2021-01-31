@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kernel Window Functions"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [time series, smoothing]
 image: kernel.jpg

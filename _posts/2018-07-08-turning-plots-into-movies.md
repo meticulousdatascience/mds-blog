@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turning Plots into Movies"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [r, ggplot, magick, dataviz, bayesian]
 image: popcorn.jpg

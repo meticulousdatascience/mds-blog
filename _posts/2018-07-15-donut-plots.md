@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Donut Plots"
-author: "Meti"
+author: "Sonya B"
 categories: journal
 tags: [r, ggplot, donut, dataviz]
 image: donuts.jpg
